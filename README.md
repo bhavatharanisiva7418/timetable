@@ -14,6 +14,7 @@ Add your timetable
 Execute the program
 
 # CODE
+``````
 <html>
    <title> TIME TABLE </title>
    <body>
@@ -106,7 +107,7 @@ Execute the program
 <td> Physics for Quantum Computing </td>
 </tr>
 </html>
-
+``````
 ## OUPUT:
 ![output](./timetable.png)
 
