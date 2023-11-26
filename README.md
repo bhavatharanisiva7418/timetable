@@ -21,7 +21,7 @@ Execute the program
 <table border="6" bgcolor="cyan" cellspacing="10" cellpadding="10">
 <caption> SLOT TIME TABLE - BHAVATHARANI S (23005455) </caption>
 
-<tr bgcolor="yellow">
+<tr bgcolor="blue">
      <th> Day/Time </th>
      <th> Monday </th>
      <th> Tuesday </th>
@@ -30,36 +30,41 @@ Execute the program
      <th> Friday </th> 
 </tr>
 <tr align="center">
-   <th bgcolor="yellow"> 8-10 </th>
-   <td colspan="3"> FREE SLOT</td>
-   <td> PHYSICS </td>
+   <th bgcolor="red"> 8-10 </th>
+   <td> PYTHON AND LINEAR ALGEBRA</td>
+   <td> CHEMISTRY </td>
+   <td>  FREE SLOT</td>
+   <td>  HERITAGE TAMIL </td>
    <td> CHEMISTRY </td>
 </tr>
 <tr align="center">
-    <th bgcolor="yellow"> 10-12 </th>
-    <td> GER </td>
-    <td> FREE SLOT </td>
+    <th bgcolor="red"> 10-12 </th>
+    <td> FREE SLOT</td>
     <td> FWAD </td>
-    <td> FWAD </td>
-    <td> PHY </td>
+    <td> PHYSICS</td>
+    <td> ENGLISH </td>
+    <td> ENGLISH </td>
 </tr>
 <tr align ="center">
-    <th bgcolor="yellow"> 12-1 </th>
+    <th bgcolor="red"> 12-1 </th>
     <td colspan="5" align="center"> LUNCH </td>
 </tr>
 <tr align ="center">
-    <th bgcolor="yellow"> 1-3 </th>
-    <td colspan="2"> FREE SLOT </td>
-    <td> MAT </td>
-    <td> MAT </td>
-    <td> SS </td>
+    <th bgcolor="red"> 1-3 </th>
+    <td > FREE SLOT </td>
+    <td> PYTHON AND LINEAR ALGEBRA </td>
+    <td> PYTHON AND LINEAR ALGEBRA</td>
+    <td> FREE SLOT </td>
+    <td>PYTHON AND LINEAR ALGEBRA</td>
 </tr>
 <tr align ="center">
-    <th bgcolor="yellow"> 3-5 </th>
-    <td colspan="2"> FREE SLOT </td>
-    <td> GER </td>
-    <td> CHE </td>
+    <th bgcolor="red"> 3-5 </th>
+    
+<td>  FREE SLOT </td>
+    <td> FREE SLOT</td>
     <td> FWAD </td>
+    <td> FREE SLOT </td>
+    <td> PHYSICS </td>
 </tr>
 </tr>
 </table>
@@ -77,32 +82,34 @@ Execute the program
 </tr>
 <tr align="center">
 <td> 2. </td>
-<td> 19EN612 </td>
-<td> German Basic (GER) </td>
+<td> 19HS101 </td>
+<td> Heritage Tamil </td>
 </tr>
 <tr align="center">
 <td> 3. </td>
-<td> 19PH206 </td>
-<td> Physics for Information Technology (PHY) </td>
+<td> 19AI301C </td>
+<td> Python And Linear Algebra (PYTHON) </td>
 </tr>
 <tr align="center">
 <td> 4. </td>
 <td> 19CY205 </td>
-<td> Principles of Chemistry in Engineering (CHE) </td>
+<td> Principles of Chemistry in Engineering  </td>
 </tr>
 <tr align="center">
 <td> 5. </td>
-<td> 19MA201 </td>
-<td> Calculus and Matrix Algebra (MAT) </td>
+<td> 19EN101</td>
+<td> Communicative English </td>
 </tr>
 <tr align="center">
 <td> 6. </td>
-<td> 19EY701 </td>
-<td> Soft Skills (SS) </td>
+<td> 19PH214 </td>
+<td> Physics for Quantum Computing </td>
 </tr>
-
-    </center>
-    </body>
 </html>
-# OUPUT
-![output](./(TIMETABLE.png))
+
+## OUPUT:
+![output](./timetable.png)
+
+### RESULT:
+The program for creating slot timetable usingbasic HTML tags is executed successfully.
+
